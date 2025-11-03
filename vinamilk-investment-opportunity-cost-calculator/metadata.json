@@ -1,0 +1,5 @@
+{
+  "name": "Vinamilk Investment Opportunity Cost Calculator",
+  "description": "A financial calculator that shows the potential opportunity cost of not investing in a dividend-paying stock like Vinamilk over time, including the effect of compound interest on both the principal and dividends.",
+  "requestFramePermissions": []
+}
